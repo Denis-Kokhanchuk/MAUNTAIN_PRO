@@ -72,9 +72,9 @@ html, body {
     display: flex;
     gap: 20px;
     position: absolute;
-    left: 34rem;
-    bottom: 31.2rem;
-    font-size: 1rem;
+    left: 43rem;
+    bottom: 40rem;
+    font-size: 1.5rem;
     color: #7ED957; 
     z-index: 2;
 }
